@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "nmap": "https://github.com",
+    "ripgrep": "https://github.com",
+    "fd": "https://github.com"
+  }
+}
